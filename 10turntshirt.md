@@ -7,7 +7,7 @@ title: To Be Dead in 10 Turns T-Shirt - 10ターン後に死ぬTシャツ Englis
 ![To Be Dead in 10 Turns T-Shirt]({{site.baseurl}}/images/10turntshirt/titlep.png)
 ![Game Spec]({{site.baseurl}}/images/10turntshirt/spec.png)
 
-# To Be Dead in 10 Turns T-Shirt - 10ターン後に死ぬTシャツ English Rule
+# To Be Dead in 10 Turns T-Shirt - 10ターン後に死ぬTシャツ Playing Rules in English (Tentative Translation)
 
 ## Introduction - はじめに
 
@@ -36,23 +36,23 @@ Your team members look at each other and, with great reluctance, called a quiet 
 > 
 > あなたたち研究員は互いに目を見合わせ、静かにこぶしを振り上げるのだった……。
 
-## Objective - ゲームの目的・概要
+## The Goals and Objectives of the Game - ゲームの目的・概要
 
-In this game, one "patient player" and one or more "virus players" fight. The board of the game is the patient player's body! 
+In this game, one "patient player" and one or more "virus players" fight. The game is played on the patient player's body! 
 
 > 「患者役」1人と「ウイルス役」1人以上にわかれて、対戦形式でゲームをおこないます。ゲームの盤面は患者役自身の肉体です！ 
  
-### Patient Player Objective - 患者役の目的
+### The Goal of the Patient Player  - 患者役の目的
 
-- Exterminate all viruses and parasites on patient player's body by the 10th turn.
+- To exterminate all viruses and parasites on your body by the 10th turn.
 
 > - 10ターン後にウイルス・寄生虫が配置されていないこと。 
 
-### Virus Player Objectives - ウイルス役の目的
+### The Goals of the Virus Player - ウイルス役の目的
 
 One of the following conditions is met.
-- One or more viruses or parasites on patient player's body in the 10th turn.
-- Place the viruses or parasites in all of 1 heart and 2 kidneys (or 1 if patient player has lost one) by the 10th turn.
+- One or more viruses or parasites is on the patient player's body in the 10th turn.
+- To place viruses/parasites on 1 heart + 2 kidneys (or 1 if patient player has lost one of the organs) by the 10th turn.
 
 > ※以下のどちらか
 > - 10ターン後にウイルス・寄生虫が配置されていること。 
@@ -66,8 +66,8 @@ One of the following conditions is met.
 
 ![Setup Image]({{site.baseurl}}/images/10turntshirt/setup.png)
 
-- A player who loses at rock-paper-scissors is patient player. Others are virus players.
-- Patient player wears Battle T-Shirt. The front of the T-shirt is printed with upside down letters.
+- A player who loses at rock-paper-scissors becomes the patient player. Others play as virus players.
+- Patient player wears the "Battle T-Shirt." The front of the T-shirt is printed with upside down letters.
 - Align the sensation of the body with the T-shirt (zero-point adjustment).
 - Turn the cards face down, shuffle them, and choose 10 cards from them. 
 - The 10 cards are stacked face down to make a draw deck. 
@@ -84,9 +84,9 @@ One of the following conditions is met.
 > - 患者役、ウイルス役それぞれにシールシートを配ります。※ゲーム中にシールが不足したら、適宜新しいシールシートを使ってください。 
 > - ウイルス役は初期配置として、任意の５マスにウイルスを配置します。下に示すウイルスシールを貼ります。
 
-### TIPS：Alignment (Zero-Point Adjustment) - 位置合わせ（ゼロ点調整） 
+### TIPS：Adjusting the positions (Zero-Point Adjustment) - 位置合わせ（ゼロ点調整） 
 
-Depending on patient player's habits and body shape, there may be a difference in the height of the print on the front and the print on the back of the T-shirt.
+Depending on patient player's posture and body shape, there may be a difference in the height of the print on the front and the print on the back of the T-shirt.
 
 So, virus player presses a specific spot on patient player's back, allowing the patient to grasp the misalignment between the front and the back. 
 
