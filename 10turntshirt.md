@@ -7,9 +7,9 @@ title: To Be Dead in 10 Turns T-Shirt - 10ターン後に死ぬTシャツ Englis
 ![To Be Dead in 10 Turns T-Shirt]({{site.baseurl}}/images/10turntshirt/titlep.png)
 ![Game Spec]({{site.baseurl}}/images/10turntshirt/spec.png)
 
-# To Be Dead in 10 Turns T-Shirt - 10ターン後に死ぬTシャツ English Rule
+# To Be Dead in 10 Turns T-Shirt - 10ターン後に死ぬTシャツ English Rule (Tentative Translation)
 
-## Prologue - はじめに
+## Introduction - はじめに
 
 A long time ago in a galaxy far, far away, a city was destroyed by a novel virus.
 
@@ -41,26 +41,24 @@ Your team members look at each other and, with great reluctance, called a quiet 
 
 ## Objective - ゲームの目的・概要
 
-In this game, one "patient player" and one or more "virus players" fight. The board of the game is the patient player's body! 
+In this game, one "Patient" player and one or more "Virus" players fight over the body of the "Patient"! 
 
 > 「患者役」1人と「ウイルス役」1人以上にわかれて、対戦形式でゲームをおこないます。ゲームの盤面は患者役自身の肉体です！ 
  
-### The Goal of the Patient Player - 患者役の目的
+### The Goal of the "Patient" - 患者役の目的
 
 - To exterminate all viruses and parasites on your body by the 10th turn.
 
 > - 10ターン後にウイルス・寄生虫が配置されていないこと。 
 
-### The Goals of the Virus Player(s) - 
+### The Goals of the "Virus" - ウイルスの目的
 
-To meet one of following conditions.
+- Place one virus/parasite on all of the Patient's three organs; heart, left kidney, and right kidney. If one kidney is lost, place one virus/parasite on the heart and the remaining kidney.（『患者』の内臓3つ（心臓、左腎臓、右腎臓）にウイルス・パラサイトを配置すること。もし、いずれかの腎臓がすでになくなっていた場合、心臓と残った腎臓にウイルス・パラサイトを配置する。☆この状況がどの時点で起こるのか分かりませんでした。9ターン終了後？）
+- At the end of the game (after the 10th turn), one or more viruses/parasites are placed on the Patient's body.
 
-- One or more viruses or parasites are placed on the patient player's body in the 10th turn.
-- Place viruses or parasites in 1 heart and 2 kidneys (1, ☆ここおかしいかもしれません。心臓がなくて腎臓が残っている場合、2ですか？☆ if patient player has lost heart or kidney,  by the 10th turn.
-
-> ※以下のどちらか
-> - 10ターン後にウイルス・寄生虫が配置されていること。 
-> - それよりも早く、心臓1箇所＋腎臓2箇所（喪失している場合は1箇所）のすべてにウイルスまたは寄生虫を配置すること。 
+> ※以下のどちらか（間違えて編集しちゃったみたいです。あとで戻します）
+> - 9ターン目までに、心臓、腎臓2つ（腎臓を一つ喪失している場合、1箇所）のすべてにウイルスまたは寄生虫を配置すること。 
+> - 10ターン後にウイルス・寄生虫が配置されていること。
 
 ## Game Contents - カード構成・内容物
 
@@ -70,13 +68,13 @@ To meet one of following conditions.
 
 ![Setup Image]({{site.baseurl}}/images/10turntshirt/setup.png)
 
-- ☆ここに「じゃんけんをする」という文言が必要。☆A player who loses at rock-paper-scissors plays as Patient Player. Others play as Virus Players.
-- The Patient player wears the "Battle T-Shirt." The front of the T-shirt is printed with upside down letters.
-- Perform of "Zero-point Adjustment."　☆Initial adjustmentなどのほうが分かりやすいかも？☆
+- All players play rock-opaper-scissors. The player who loses at rock-paper-scissors plays as Patient. Others play as Virus.
+- The Patient wears the "Battle T-Shirt." The front of the T-shirt is printed with upside down letters.
+- Perform "Zero-point Adjustment."　☆Initial adjustmentなどのほうが分かりやすいかも？☆
 - Turn the "☆初出のため、カードの正式名☆cards" face down, shuffle them, and pick 10 cards. 
-- Stack 10 cards, face down, to make☆makeではない☆ a draw deck. (Other cards are not used in this round.)
+- Stack 10 cards, face down, to make☆makeではないかも？ a draw deck. (Other cards are not used in this round.)
 - Distribute 1 sticker sheet to each player. (If a player runs out of sticker during the game, use☆useではない☆ a new sticker sheet.
-- The virus player places viruses in any five squares. ☆ここよく分からないです。下？？？This means putting virus stickers shown below.☆
+- The Virus places viruses in any five squares by pasting stickers described below.☆
 
 ![Virus Sticker]({{site.baseurl}}/images/10turntshirt/sticker_virus.png)
 
@@ -120,13 +118,13 @@ At that time, virus player should place the sticker while pressing firmly it wit
 
 ## Playing the Game - ゲームの進行
 
-Each turn is divided into the patient player's act and virus player's act. It starts with patient player.
+Each turn is divided into the Patient's act and Virus's act. The turn starts with patient player.
 
 > 毎ターン、患者役とウイルス役がそれぞれ行動します。まず患者役から始まります。
 
 ### A. Patient Player's Turn - 患者役ターン
 
-Patient player must perform (1) through (3) in order.
+Patient perform 1. through 3. in order.
 
 > 患者役は(1)～(3)を順番に実施します。 
 
